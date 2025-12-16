@@ -3,7 +3,7 @@
   "PASSWORD": "",
   "NOTIFICATION": true,
   "language": "vi",
-  "notiGroup": true,
+  "notiGroup": false,
   "keyActive": "",
   "DeveloperMode": false,
   "autoinstallpackage": true,
