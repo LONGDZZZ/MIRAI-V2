@@ -200,7 +200,7 @@ async function syncModulesAndEvents() {
     maxLength: '0'
   });
 
-  CFonts.say('PCODER', {
+  CFonts.say('LONGDZ', {
     font: 'block',
     align: 'left',
     colors: getRandomColors(6),
@@ -212,10 +212,10 @@ async function syncModulesAndEvents() {
   });
 
   // Quảng cáo nổi bật, có khung, emoji, nhiều màu sắc
-  const fb = chalk.hex('#00acee').underline.bold('https://fb.com/pcoder090');
-  const zalo = chalk.hex('#25d366').underline.bold('https://zalo.me/0786888655');
+  const fb = chalk.hex('#00acee').underline.bold('https://fb.com/100089643747218');
+  const zalo = chalk.hex('#25d366').underline.bold('https://zalo.me/0338451916');
   const banner =
-    chalk.hex('#FFD700').bold('⚡ MUA FILE BOT - LIÊN HỆ NGAY! ⚡\n') +
+    chalk.hex('#FFD700').bold('⚡ yêu vl ra 🥰 ⚡\n') +
     chalk.white('Facebook: ') + fb +
     chalk.hex('#FFD700').bold(' | ') +
     chalk.white('Zalo: ') + zalo +
@@ -272,7 +272,7 @@ async function syncModulesAndEvents() {
     chalk.bgYellow.black.bold(`  PID: ${process.pid}  `)
   );
   console.log(chalk.hex('#FFD700')('='.repeat(50)));
-  console.log(chalk.hex('#ff00cc').italic('MiraiBot | PCODER | Chúc bạn một ngày chạy bot vui vẻ!'));
+  console.log(chalk.hex('#ff00cc').italic('MiraiBot | Longdz | Chúc bạn một ngày chạy bot vui vẻ!'));
   console.log(chalk.hex('#FFD700')('='.repeat(50)));
 
   // Fancy Logger + Package/Module Check
